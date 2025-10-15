@@ -5,7 +5,6 @@
 ![Licença](https://img.shields.io/badge/licença-Livre-FFC0CB)
 ![Autoria](https://img.shields.io/badge/feito%20por-Lavínia%20Butinholi%20Basílio-FFC0CB)
 
-[Repositório do projeto](https://github.com/seuusuario/jogo-par-ou-impar)
 
 ---
 
